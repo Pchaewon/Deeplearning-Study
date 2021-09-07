@@ -1,6 +1,11 @@
 ### Deeplearning-Study
 ##### "딥러닝 기초"를 읽고 복습하는 공간입니다.
 
+#### 버전 정리
+> GPU : NVIDIA Geforce GTX 1080ti reference
+> CPU : intel 10400F 
+> 추가 예정
+
 ------------
 #### 교재 : "딥러닝 기초"
 * 목차
