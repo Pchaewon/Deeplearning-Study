@@ -3,7 +3,7 @@
 
 #### 버전 정리
 > GPU : NVIDIA Geforce GTX 1080ti reference </br>
-> CPU : intel 10400F 
+> CPU : intel 10400F </br>
 > 추가 예정
 
 ------------
