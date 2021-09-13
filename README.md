@@ -4,7 +4,15 @@
 #### 버전 정리
 > GPU : NVIDIA Geforce GTX 1080ti reference </br>
 > CPU : intel 10400F </br>
-> 추가 예정
+> python 3.6.5
+> pytorch 1.9.0
+> torchvision torchaudio
+> opencv-python 4.5.3
+> numpy 1.19.5
+> matpltlib 3.3.4
+> tensorflow 2.6.0
+> tensorflow-gpu
+> CUDA 11.0
 
 ------------
 #### 교재 : "딥러닝 기초"
